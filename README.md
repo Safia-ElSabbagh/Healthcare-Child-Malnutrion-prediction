@@ -153,6 +153,7 @@ Used **GridSearchCV** to improve XGBoost:
 
 | Name | GitHub Profile |
 |------|----------------|
-| Mariam Mohamed | [@amirayasser1](https://github.com/amirayasser1) |
+| Mariam Mohamed | [@202201223](https://github.com/202201223) |
+| Amira Yasser | [@amirayasser1](https://github.com/amirayasser1) |
 | Safia ElSabbagh | [@Safia-ElSabbagh](https://github.com/Safia-ElSabbagh) |
-| Mahmoud Hassan | [@202201223](https://github.com/202201223) |
+
