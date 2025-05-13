@@ -6,9 +6,8 @@ This repository presents an end-to-end machine learning workflow for predicting 
 
 ## 📁 Dataset Used
 
-- **Original Dataset Source**: [Multiple Indicator Cluster Surveys (MICS) - UNICEF](https://mics.unicef.org/surveys)
-- **Direct Dataset Download**: [MICS6 - Nutrition Data](https://mics.unicef.org/surveys?round=mics6)
-- **Cleaned Dataset**: [`cleaned_malnutrition_dataset.csv`](./data/cleaned_malnutrition_dataset.csv)
+- **Original Dataset Source**: [Multiple Indicator Cluster Surveys (MICS) - UNICEF](https://www.kaggle.com/datasets/usharengaraju/child-malnutrition-unicef-dataset/data)
+- **Cleaned Dataset**: [`cleaned_malnutrition_dataset.csv`]([./data/cleaned_malnutrition_dataset.csv](https://github.com/Safia-ElSabbagh/Healthcare-Child-Malnutrion-prediction/blob/main/Milestone%201/Cleaned%20Survey%20Data.csv))
 
 ---
 
